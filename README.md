@@ -13,8 +13,8 @@ PyBer is a python-based ride-sharing company that needs help analyzing their bus
 These results make perfect sense and are exactly what I hypothesized. Urban cities are densely populated, which translates into more rides, more drivers, more revenue in total, lower average fare per ride (passenger destinations are closer in urban areas), and lower average fare per driver (again, shorter trips in urban areas). The data from Rural cities proves the same point but from the other side of the spectrum. Rural cities are lightly populated, meaning less rides, less drivers, less revenue in total, higher average fare per ride (passenger destinations are more spread out in rural areas), and higher average fare per driver (again, longer trips in rural areas). By definition, a 'suburban' city isn't quite as densely populated as urban cities and also not as lightly populated as rural cities - it's right in the middle, which is exactly what the data shows in the DataFrame.
 
 ## Summary
-In urban cities: 2,405 drivers were responsible for 1,625 rides during this time frame, which equates to 0.68 rides per driver (some drivers never completed a ride).
-In suburban cities: 490 drivers were responsible for 625 rides during this time frame, which equates to 1.28 rides per driver.
+In urban cities: 2,405 drivers were responsible for 1,625 rides during this time frame, which equates to 0.68 rides per driver (some drivers never completed a ride).<br/>
+In suburban cities: 490 drivers were responsible for 625 rides during this time frame, which equates to 1.28 rides per driver.<br/>
 In rural cities: 78 drivers were responsible for 125 rides during this time frame, which equates to 1.69 rider per driver.
 
 More drivers = more rides 
