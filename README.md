@@ -14,7 +14,9 @@ These results make perfect sense and are exactly what I hypothesized. Urban citi
 
 ## Summary
 In urban cities: 2,405 drivers were responsible for 1,625 rides during this time frame, which equates to 0.68 rides per driver (some drivers never completed a ride).<br/>
+
 In suburban cities: 490 drivers were responsible for 625 rides during this time frame, which equates to 1.28 rides per driver.<br/>
+
 In rural cities: 78 drivers were responsible for 125 rides during this time frame, which equates to 1.69 rider per driver.
 
 More drivers = more rides 
